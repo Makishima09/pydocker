@@ -1,0 +1,2 @@
+pandas==2.2.2 #2.2.2  is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+matplotlib==3.8.2 #3.8.2 library for creating static, animated, and interactive visualizations in Python.
