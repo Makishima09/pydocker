@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# img files
+adjusted_close_price.png
+opening_vs_closing_prices.png
+volume_of_transactions.png
+
 # C extensions
 *.so
 
